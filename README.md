@@ -11,3 +11,9 @@ The base visual consists of 12 spark emitters, each emitting a maximum of 64 spa
 **This code is released as-was in 2012 when I wrote this for Firefox 10.**
 
 **This does not run on browsers ca. 2016.**
+
+![](https://github.com/lamikae/FiammaBellezza/blob/master/pictures/pic1.png)
+![](https://github.com/lamikae/FiammaBellezza/blob/master/pictures/pic2.png)
+
+![](https://github.com/lamikae/FiammaBellezza/blob/master/pictures/pic3.png)
+![](https://github.com/lamikae/FiammaBellezza/blob/master/pictures/pic4.png)
